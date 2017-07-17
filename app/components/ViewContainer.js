@@ -24,6 +24,6 @@ const styles = StyleSheet.create({
         backgroundColor: "blue"
     }
 
-})
+});
 
-module.exports = ViewContainer
+module.exports = ViewContainer;
